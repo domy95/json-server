@@ -1,6 +1,7 @@
 {
   "empreses" : [
     {
+      "id": 1,
       "Nom": "Esolvo Global SL",
       "Telefon": "673745746",
       "Persones": [
