@@ -6,16 +6,19 @@
       "Telefon": "673745746",
       "Persones": [
         {
+          "id": 3,
           "Nom": "Artur",
           "Cognoms": "Dominguez Gispert",
           "Telefon": "+34 673 745 746"
         },
         {
+          "id": 1,
           "Nom": "Raul",
           "Cognoms": "Ferragut Rossell",
           "Telefon": "+34 673 74 57 46"
         },
         {
+          "id": 2,
           "Nom": "David",
           "Cognoms": "Passola Verdaguer",
           "Telefon": "+34673745746"
